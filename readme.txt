@@ -2,9 +2,9 @@
 Contributors: socialmannet
 Tags: giveaway, contests, sweepskates, socialman.net, socialman, wordpress
 Requires at least: 3.0.1
-Tested up to: 5.0.3
+Tested up to: 5.4.1
 Requires PHP: 5.3
-Stable tag: 1.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,7 +17,8 @@ Note: You need a free [Socialman](https://socialman.net/) account to use this pl
 1. Upload 'socialman' folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Create your giveaway at [Socialman](https://socialman.net/). When done, copy your giveaway URL from the dashboard.
-4. Use the shortcode below to install the widget on your website or blog. Replace the URL in the shortcode with your giveaway URL.
+4. In the Guttenberg add the giveaway widget to your website or blog using custom Socialman block. Select the block, paste the URL of your giveaway in its text field and save it. Alternatively, you can use the shortcode block with the shortcode provided below. Replace the URL in the shortcode with your giveaway URL.
+5. In the classic editor use the shortcode below to install the widget on your website or blog. Replace the URL in the shortcode with your giveaway URL.
 
 == Giveaway Shortcode ==
 `[socialman url="https://socialman.net/c/6EGdj"]`
@@ -45,13 +46,28 @@ Socialman currenty offers following features:
 * Retweet on Twitter             
 * Send a Tweet             
 * Sign in with Twitter             
-* Visit Twitter profile             
-* Visit URL             
-* Join server on Discord             
-* Sign in with Discord             
+* Visit Twitter profile   
+* Share photo on Twitter                                   
 * Sign in with Instagram             
 * Visit on Instagram             
-* View photo on Instagram             
+* View photo on Instagram  
+* Select a photo from your Instagram   
+* Sign in with YouTube 
+* Comment on YouTube video             
+* Subscribe on YouTube             
+* Watch video on YouTube                         
+* Sign in with Twitch 
+* Follow on Twitch              
+* Subscribe on Twitch         
+* Sign in with Mixer   
+* Follow on Mixer               
+* Subscribe on Mixer  
+* Sign in with Discord                                
+* Join server on Discord 
+* Sign in with Steam              
+* Play a game on Steam             
+* Join a group on Steam             
+* Visit URL             
 * Sign up for our newsletter             
 * Answer poll question             
 * Answer quiz question             
@@ -60,20 +76,22 @@ Socialman currenty offers following features:
 * Sign in with Steam             
 * Follow on Twitch             
 * Sign in with Twitch             
-* Subscribe on Twitch             
-* Share photo on Twitter             
-* Share on VKontakte             
-* Comment on YouTube video             
-* Subscribe on YouTube             
-* Watch video on YouTube             
-* Download app on the App Store             
-* Download app             
-* Download app on Google Play             
-* Select a photo from your Instagram             
+* Subscribe on Twitch 
+* Sign in with Mixer  
+* Follow on Mixer                        
+* Subscribe on Mixer 
+* Sign in with Pinterest  
 * Follow on Pinterest             
-* Pin it on Pinterest             
-* Share photo on VKontakte             
-* Restrict access by location             
+* Pin it on Pinterest                       
+* Share on VKontakte 
+* Share photo on VKontakte    
+* Download app                          
+* Download app on the App Store                      
+* Download app on Google Play                                          
+* Restrict access by location   
+* Custom landing page backgrounds   
+* Custom welcome emails 
+* Remove Socialman branding            
 * Detailed analytics
 
 [Check the full list of our features here](https://socialman.net/features/).
@@ -84,7 +102,7 @@ The basic version is free. For more advanced options we offer paid subscription 
 
 = My website is not in English. Does Socialman support other languages? =
 
-Yes, Socialman widget currently supports 14 languages: English, Spanish, Chinese, French, Arabic, Portuguese, Russian, Japanese, German, Italian, Polish, Romanian, Turkish and Vietnamese (with more on the way).
+Yes, Socialman widget currently supports 14 languages: English, Spanish, Chinese, French, Arabic, Portuguese, Russian, Indonesian, Japanese, German, Italian, Polish, Romanian, Turkish and Vietnamese (with more on the way).
 
 [Read more](https://socialman.net/faq/)
 
@@ -95,4 +113,7 @@ Yes, Socialman widget currently supports 14 languages: English, Spanish, Chinese
 == Changelog ==
 
 = 1.0 =
-* Initial Version
+* Initial version
+
+= 1.1.0 =
+* Guttenberg editor support
