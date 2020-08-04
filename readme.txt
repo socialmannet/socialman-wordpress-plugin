@@ -2,7 +2,7 @@
 Contributors: socialmannet
 Tags: giveaway, contests, sweepskates, socialman.net, socialman, wordpress
 Requires at least: 3.0.1
-Tested up to: 5.4.1
+Tested up to: 5.5
 Requires PHP: 5.3
 Stable tag: 1.1.0
 License: GPLv2 or later
