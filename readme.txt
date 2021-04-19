@@ -23,13 +23,7 @@ Note: You need a free [Socialman](https://socialman.net/) account to use this pl
 == Giveaway Shortcode ==
 `[socialman url="https://socialman.net/c/6EGdj"]`
 
-== FAQ ==
-
-= What is Socialman? =
-
-[Socialman](https://socialman.net/) is an online platform that allows you to create giveaways and contests through multiple social media channels. Socialman works effortlessly with Facebook, Twitter, YouTube, Instagram, Pinterest, Vkontakte, Steam, Discord, and Twitch.
-
-= Giveaway examples =
+== Giveaway Examples ==
 
 * Facebook Giveaway [example](https://socialman.net/facebook/)
 * Twitter Giveaway [example](https://socialman.net/twitter/)
@@ -41,6 +35,12 @@ Note: You need a free [Socialman](https://socialman.net/) account to use this pl
 * Spotify Giveaway [example](https://socialman.net/spotify/)
 * Pinterest Giveaway [example](https://socialman.net/pinterest/)
 * VKontakte Giveaway [example](https://socialman.net/vkontakte/)
+
+== FAQ ==
+
+= What is Socialman? =
+
+[Socialman](https://socialman.net/) is an online platform that allows you to create giveaways and contests through multiple social media channels. Socialman works effortlessly with Facebook, Twitter, YouTube, Instagram, Pinterest, Vkontakte, Steam, Discord, and Twitch.
 
 = What features does Socialman offer? =
 
@@ -109,7 +109,8 @@ Yes, Socialman widget currently supports 14 languages: English, Spanish, Chinese
 
 == Screenshots ==
 
-1. screenshot-1.png
+1. Blog Giveaway Example
+2. Esports Giveaway Example
 
 == Changelog ==
 
