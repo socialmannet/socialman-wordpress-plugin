@@ -2,9 +2,9 @@
 Contributors: socialmannet
 Tags: giveaway, contests, sweepskates, socialman.net, socialman, wordpress
 Requires at least: 3.0.1
-Tested up to: 5.5
+Tested up to: 5.7
 Requires PHP: 5.3
-Stable tag: 1.1.0
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,24 +29,41 @@ Note: You need a free [Socialman](https://socialman.net/) account to use this pl
 
 [Socialman](https://socialman.net/) is an online platform that allows you to create giveaways and contests through multiple social media channels. Socialman works effortlessly with Facebook, Twitter, YouTube, Instagram, Pinterest, Vkontakte, Steam, Discord, and Twitch.
 
+= Giveaway examples =
+
+* Facebook Giveaway [example](https://socialman.net/facebook/)
+* Twitter Giveaway [example](https://socialman.net/twitter/)
+* YouTube Giveaway [example](https://socialman.net/youtube/)
+* Instagram Giveaway [example](https://socialman.net/instagram/)
+* Twitch Giveaway [example](https://socialman.net/twitch/)
+* Discord Giveaway [example](https://socialman.net/discord/)
+* Steam Giveaway [example](https://socialman.net/twitch/)
+* Spotify Giveaway [example](https://socialman.net/spotify/)
+* Pinterest Giveaway [example](https://socialman.net/pinterest/)
+* VKontakte Giveaway [example](https://socialman.net/vkontakte/)
+
 = What features does Socialman offer? =
 
 Socialman currenty offers following features:
 * Unlimited giveaways             
 * Unlimited participants             
-* Random winner selection             
+* Random or manual winner selection           
 * CSV exports             
 * Facebook tab install             
 * Prize images             
-* Multiple languages             
+* Multiple languages                        
+* Answer open question
+* Visit URL             
+* Sign up for our newsletter             
+* Answer poll question             
+* Answer quiz question 
 * Sign in with Facebook             
 * Visit on Facebook             
-* Answer open question             
 * Follow on Twitter             
 * Retweet on Twitter             
 * Send a Tweet             
 * Sign in with Twitter             
-* Visit Twitter profile   
+* Visit Twitter profile 
 * Share photo on Twitter                                   
 * Sign in with Instagram             
 * Visit on Instagram             
@@ -58,28 +75,12 @@ Socialman currenty offers following features:
 * Watch video on YouTube                         
 * Sign in with Twitch 
 * Follow on Twitch              
-* Subscribe on Twitch         
-* Sign in with Mixer   
-* Follow on Mixer               
-* Subscribe on Mixer  
+* Subscribe on Twitch 
 * Sign in with Discord                                
 * Join server on Discord 
 * Sign in with Steam              
 * Play a game on Steam             
-* Join a group on Steam             
-* Visit URL             
-* Sign up for our newsletter             
-* Answer poll question             
-* Answer quiz question             
-* Play a game on Steam             
-* Join a group on Steam             
-* Sign in with Steam             
-* Follow on Twitch             
-* Sign in with Twitch             
-* Subscribe on Twitch 
-* Sign in with Mixer  
-* Follow on Mixer                        
-* Subscribe on Mixer 
+* Join a group on Steam
 * Sign in with Pinterest  
 * Follow on Pinterest             
 * Pin it on Pinterest                       
@@ -117,3 +118,6 @@ Yes, Socialman widget currently supports 14 languages: English, Spanish, Chinese
 
 = 1.1.0 =
 * Guttenberg editor support
+
+= 1.2.0 =
+* Embed URLs updates

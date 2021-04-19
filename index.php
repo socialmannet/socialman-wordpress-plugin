@@ -22,8 +22,8 @@ function socialman_add_shortcode($atts, $content = null) {
     }
     $hash = str_replace('/c/', '', $url_parts['path']);
     $hash = str_replace('/', '', $hash);
-    return sprintf('<a href="https://widget.socialman.net" id="socialwidget" data-ref="%s" class="srfl">%s</a>
-                    <script src="//widget.socialman.net/get.js"></script>', $hash, __('Giveaway', 'socialman'), do_shortcode($content));
+    return sprintf('<a href="https://socialman.net" id="socialwidget" data-ref="%s" class="srfl">%s</a>
+                    <script src="//socialman.net/widget/get.js"></script>', $hash, __('Giveaway', 'socialman'), do_shortcode($content));
 }
 
 function socialman_init() {
