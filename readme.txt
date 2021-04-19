@@ -25,16 +25,15 @@ Note: You need a free [Socialman](https://socialman.net/) account to use this pl
 
 == Giveaway Examples ==
 
-* Facebook Giveaway [example](https://socialman.net/facebook/)
-* Twitter Giveaway [example](https://socialman.net/twitter/)
-* YouTube Giveaway [example](https://socialman.net/youtube/)
-* Instagram Giveaway [example](https://socialman.net/instagram/)
-* Twitch Giveaway [example](https://socialman.net/twitch/)
-* Discord Giveaway [example](https://socialman.net/discord/)
-* Steam Giveaway [example](https://socialman.net/twitch/)
-* Spotify Giveaway [example](https://socialman.net/spotify/)
-* Pinterest Giveaway [example](https://socialman.net/pinterest/)
-* VKontakte Giveaway [example](https://socialman.net/vkontakte/)
+* [Facebook Giveaway](https://socialman.net/facebook/)
+* [Twitter Giveaway](https://socialman.net/twitter/)
+* [YouTube Giveaway](https://socialman.net/youtube/)
+* [Instagram Giveaway](https://socialman.net/instagram/)
+* [Twitch Giveaway](https://socialman.net/twitch/)
+* [Discord Giveaway](https://socialman.net/discord/)
+* [Steam Giveaway](https://socialman.net/twitch/)
+* [Pinterest Giveaway](https://socialman.net/pinterest/)
+* [VKontakte Giveaway](https://socialman.net/vkontakte/)
 
 == FAQ ==
 

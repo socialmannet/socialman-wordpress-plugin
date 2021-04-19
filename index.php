@@ -7,7 +7,7 @@
   Plugin Name: Socialman
   Plugin URI: https://socialman.net
   Description: Add Socialman giveaway widget for your website.
-  Version: 1.1.0
+  Version: 1.2.0
   Author: Socialman
   License: GPLv2 or later
  */
