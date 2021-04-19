@@ -111,6 +111,7 @@ Yes, Socialman widget currently supports 14 languages: English, Spanish, Chinese
 
 1. Blog Giveaway Example
 2. Esports Giveaway Example
+3. Socialman Guttenberg Block Admin View
 
 == Changelog ==
 
