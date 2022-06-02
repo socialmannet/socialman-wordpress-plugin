@@ -2,13 +2,13 @@
 
 ## [Unreleased]
 
-## [1.2.1] - 2020-06-02
+## [1.2.1] - 2022-06-02
 
 ### Changed
 - Compatibility with new Wordpress version
 - Readme info
 
-## [1.2.0] - 2020-04-19
+## [1.2.0] - 2021-04-19
 
 ### Changed
 - New embed URLs
