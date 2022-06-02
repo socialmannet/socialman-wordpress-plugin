@@ -2,9 +2,9 @@
 Contributors: socialmannet
 Tags: giveaway, contests, sweepskates, socialman.net, socialman, wordpress
 Requires at least: 3.0.1
-Tested up to: 5.7
+Tested up to: 6.0
 Requires PHP: 5.3
-Stable tag: 1.2.0
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,11 +29,14 @@ Note: You need a free [Socialman](https://socialman.net/) account to use this pl
 * [Twitter Giveaway](https://socialman.net/twitter/)
 * [YouTube Giveaway](https://socialman.net/youtube/)
 * [Instagram Giveaway](https://socialman.net/instagram/)
+* [TikTok Giveaway](https://socialman.net/tiktok/)
 * [Twitch Giveaway](https://socialman.net/twitch/)
 * [Discord Giveaway](https://socialman.net/discord/)
 * [Steam Giveaway](https://socialman.net/twitch/)
+* [Telegram Giveaway](https://socialman.net/telegram/)
 * [Pinterest Giveaway](https://socialman.net/pinterest/)
-* [VKontakte Giveaway](https://socialman.net/vkontakte/)
+* [Spotify Giveaway](https://socialman.net/spotify/)
+* [Reddit Giveaway](https://socialman.net/reddit/)
 
 == FAQ ==
 
@@ -64,14 +67,15 @@ Socialman currenty offers following features:
 * Sign in with Twitter             
 * Visit Twitter profile 
 * Share photo on Twitter                                   
+* Sign in with YouTube          
+* Subscribe on YouTube             
+* Watch video on YouTube
 * Sign in with Instagram             
 * Visit on Instagram             
 * View photo on Instagram  
 * Select a photo from your Instagram   
-* Sign in with YouTube 
-* Comment on YouTube video             
-* Subscribe on YouTube             
-* Watch video on YouTube                         
+* Sign in with TikTok 			
+* Watch video on TikTok                         
 * Sign in with Twitch 
 * Follow on Twitch              
 * Subscribe on Twitch 
@@ -80,12 +84,20 @@ Socialman currenty offers following features:
 * Sign in with Steam              
 * Play a game on Steam             
 * Join a group on Steam
+* Join a group on Telegram 			
+* Sign in with Telegram 			
+* View on Telegram 
 * Sign in with Pinterest  
 * Follow on Pinterest             
 * Pin it on Pinterest                       
 * Share on VKontakte 
-* Share photo on VKontakte    
-* Download app                          
+* Follow on Spotify 			
+* Save on Spotify 			
+* Sign in with Spotify 
+* Sign in with Reddit 			
+* Subscribe on Reddit 			
+* Visit on Reddit 
+* Download app                    
 * Download app on the App Store                      
 * Download app on Google Play                                          
 * Restrict access by location   
@@ -122,3 +134,6 @@ Yes, Socialman widget currently supports 14 languages: English, Spanish, Chinese
 
 = 1.2.0 =
 * Embed URLs updates
+
+= 1.2.1 =
+* Readme updates

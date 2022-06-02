@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [1.2.1] - 2020-06-02
+
+### Changed
+- Compatibility with new Wordpress version
+- Readme info
+
 ## [1.2.0] - 2020-04-19
 
 ### Changed
