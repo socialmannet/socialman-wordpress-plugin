@@ -4,7 +4,7 @@ Tags: giveaway, contests, sweepskates, socialman.net, socialman, wordpress
 Requires at least: 3.0.1
 Tested up to: 6.0
 Requires PHP: 5.3
-Stable tag: 1.2.1
+Stable tag: 1.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,7 +42,7 @@ Note: You need a free [Socialman](https://socialman.net/) account to use this pl
 
 = What is Socialman? =
 
-[Socialman](https://socialman.net/) is an online platform that allows you to create giveaways and contests through multiple social media channels. Socialman works effortlessly with Facebook, Twitter, YouTube, Instagram, Pinterest, Vkontakte, Steam, Discord, and Twitch.
+[Socialman](https://socialman.net/) is an online platform that allows you to create giveaways and contests through multiple social media channels. Socialman works effortlessly with Facebook, Twitter, YouTube, Instagram, TikTok, Pinterest, Telegram, Reddit, Spotify, Steam, Discord, and Twitch.
 
 = What features does Socialman offer? =
 
@@ -53,7 +53,13 @@ Socialman currenty offers following features:
 * CSV exports             
 * Facebook tab install             
 * Prize images             
-* Multiple languages                        
+* Multiple languages 
+* Detailed analytics
+* Email marketing platforms integrations (Mailchimp, GetResponse, ActiveCampaign and more)
+* Restrict access by location   
+* Custom landing page backgrounds   
+* Custom welcome emails 
+* Remove Socialman branding                               
 * Answer open question
 * Visit URL             
 * Sign up for our newsletter             
@@ -99,14 +105,41 @@ Socialman currenty offers following features:
 * Visit on Reddit 
 * Download app                    
 * Download app on the App Store                      
-* Download app on Google Play                                          
-* Restrict access by location   
-* Custom landing page backgrounds   
-* Custom welcome emails 
-* Remove Socialman branding            
-* Detailed analytics
+* Download app on Google Play  
 
 [Check the full list of our features here](https://socialman.net/features/).
+
+= Which social media apps does it work with? =                                        
+
+Socialman currenty works with all major social media platforms including:
+* [Facebook](https://socialman.net/facebook/)
+* [Twitter](https://socialman.net/twitter/)
+* [YouTube](https://socialman.net/youtube/)
+* [Instagram](https://socialman.net/instagram/)
+* [TikTok](https://socialman.net/tiktok/)
+* [Twitch](https://socialman.net/twitch/)
+* [Discord](https://socialman.net/discord/)
+* [Steam](https://socialman.net/twitch/)
+* [Telegram](https://socialman.net/telegram/)
+* [Pinterest](https://socialman.net/pinterest/)
+* [Spotify](https://socialman.net/spotify/)
+* [Reddit](https://socialman.net/reddit/)
+
+= Is it integrated with the other marketing tools? =                                        
+
+Socialman is integrated with the following marketing tools: 
+* ActiveCampaign
+* Autopilot
+* ConvertKit
+* GetResponse
+* iContact
+* MailChimp
+* Mailjet
+* Omnisend
+* SendGrid
+* Sendinblue
+
+[Check the details here](https://socialman.net/integrations/).
 
 = How much does it cost? =
 
@@ -136,4 +169,7 @@ Yes, Socialman widget currently supports 14 languages: English, Spanish, Chinese
 * Embed URLs updates
 
 = 1.2.1 =
+* Readme updates
+
+= 1.2.2 =
 * Readme updates
