@@ -7,7 +7,7 @@
   Plugin Name: Socialman
   Plugin URI: https://socialman.net
   Description: Add Socialman giveaway widget for your website.
-  Version: 1.2.2
+  Version: 1.2.3
   Author: Socialman
   License: GPLv2 or later
  */
@@ -23,7 +23,7 @@ function socialman_add_shortcode($atts, $content = null) {
     $hash = str_replace('/c/', '', $url_parts['path']);
     $hash = str_replace('/', '', $hash);
     return sprintf('<a href="https://socialman.net" id="socialwidget" data-ref="%s" class="srfl">%s</a>
-                    <script src="//socialman.net/widget/get.js"></script>', $hash, __('Giveaway', 'socialman'), do_shortcode($content));
+                    <script src="https://socialman.net/widget/get.js"></script>', $hash, __('Giveaway', 'socialman'), do_shortcode($content));
 }
 
 function socialman_init() {

@@ -2,9 +2,9 @@
 Contributors: socialmannet
 Tags: giveaway, contests, sweepskates, socialman.net, socialman, wordpress
 Requires at least: 3.0.1
-Tested up to: 6.0
+Tested up to: 6.1
 Requires PHP: 5.3
-Stable tag: 1.2.2
+Stable tag: 1.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,7 +55,7 @@ Socialman currenty offers following features:
 * Prize images             
 * Multiple languages 
 * Detailed analytics
-* Email marketing platforms integrations (Mailchimp, GetResponse, ActiveCampaign and more)
+* Email marketing platforms integrations (Mailchimp, GetResponse, ActiveCampaign and [more](https://socialman.net/integrations/))
 * Restrict access by location   
 * Custom landing page backgrounds   
 * Custom welcome emails 
@@ -147,7 +147,7 @@ The basic version is free. For more advanced options we offer paid subscription 
 
 = My website is not in English. Does Socialman support other languages? =
 
-Yes, Socialman widget currently supports 14 languages: English, Spanish, Chinese, French, Arabic, Portuguese, Russian, Indonesian, Japanese, German, Italian, Polish, Romanian, Turkish and Vietnamese (with more on the way).
+Yes, Socialman widget currently supports twenty languages: English, Spanish, Chinese, French, Arabic, Portuguese, Russian, Japanese, German, Korean, Italian, Polish, Dutch, Romanian, Ukrainian, Greek, Czech, Turkish, Indonesian, and Vietnamese (with more on the way).
 
 [Read more](https://socialman.net/faq/)
 
@@ -173,3 +173,6 @@ Yes, Socialman widget currently supports 14 languages: English, Spanish, Chinese
 
 = 1.2.2 =
 * Readme updates
+
+= 1.2.3 =
+* Readme and embed code updates
