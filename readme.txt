@@ -2,9 +2,9 @@
 Contributors: socialmannet
 Tags: giveaway, contests, sweepskates, socialman.net, socialman, wordpress
 Requires at least: 3.0.1
-Tested up to: 6.1
+Tested up to: 6.4
 Requires PHP: 5.3
-Stable tag: 1.2.3
+Stable tag: 1.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -176,3 +176,6 @@ Yes, Socialman widget currently supports twenty languages: English, Spanish, Chi
 
 = 1.2.3 =
 * Readme and embed code updates
+
+= 1.2.4 =
+* Readme updates
